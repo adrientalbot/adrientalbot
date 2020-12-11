@@ -18,6 +18,6 @@
 - Job Classification and Automation Risk Analysis,
 - Forecasting lettuce demand,
 - Asset price correlation with Network X,
-- Community detection.. and many others!
+- Community detection.. and many others! Chech the repository! 
 
 
