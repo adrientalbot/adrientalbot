@@ -7,7 +7,7 @@
 - Awards: "The Breakthrough Award’ from Imperial for work on “Improving operational efficiencies and commercial performance” of leading energy company in the UK (July 2020)
 - Programming languages: Python, SQL, R, AMPL
 - Visualisation tools: plotly, matplotlib, ggplot2, Power BI, Tableau 
-- Personal interests: flying drones, drone footage editing, AI, adventure travel, football (or soccer)
+- Personal interests: startups, venture capital, flying drones, drone footage editing, AI, adventure travel, football (or soccer)
 - What I am looking to improve and gain knowledge in: A/B testing, neural networks
 
 - 📫 How to reach me: adrientalbot2@gmail.com, https://www.linkedin.com/in/adrien-talbot/
