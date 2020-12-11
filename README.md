@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there! I am Adrien! 👋
 
 <!--
 **adrientalbot/adrientalbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- I am a data analyst at Dashmote, an AI company which offers B2B solutions to food and beverage clients such as Coca-Cola, Heineken and so on. 
+- MSc Business Analytics Graduate from Imperial College Business School 
+- Awards: "The Breakthrough Award’ from Imperial for work on “Improving operational efficiencies and commercial performance” of leading energy company in the UK (July 2020)
+- Programming languages: Python, SQL, R, AMPL
+- Personal interests: drones, AI, adventure travel, football (or soccer)
+- What I am looking to improve and gain knowledge in: A/B testing 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: adrientalbot2@gmail.com
+
+# You will find here both personal as well as school projects I worked on such as:
+
+
