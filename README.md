@@ -10,8 +10,7 @@
 - Personal interests: flying drones, drone footage editing, AI, adventure travel, football (or soccer)
 - What I am looking to improve and gain knowledge in: A/B testing, neural networks
 
-- 📫 How to reach me: adrientalbot2@gmail.com
-- Linkedin: https://www.linkedin.com/in/adrien-talbot/
+- 📫 How to reach me: adrientalbot2@gmail.com, https://www.linkedin.com/in/adrien-talbot/
 
 ### You will find here both personal as well as school projects I worked on such as:
 
