@@ -15,6 +15,7 @@
 ### You will find here both personal as well as school projects I worked on such as:
 
 - Machine Learning Crime Analysis Project,
+- Analysis of startups' success and survivability,
 - Job Classification and Automation Risk Analysis,
 - Forecasting lettuce demand,
 - Asset price correlation with Network X,
