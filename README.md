@@ -1,8 +1,5 @@
 ### Hi there! I am Adrien! 👋
 
-<!--
-**adrientalbot/adrientalbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - I am a data analyst at Dashmote, an AI company which offers B2B solutions to food and beverage clients such as Coca-Cola, Heineken and so on. 
 - MSc Business Analytics Graduate from Imperial College Business School 
 - Awards: "The Breakthrough Award’ from Imperial for work on “Improving operational efficiencies and commercial performance” of leading energy company in the UK (July 2020)
