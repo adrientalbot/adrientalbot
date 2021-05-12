@@ -1,6 +1,6 @@
 ## Hi there! I am Adrien! 👋
 
-- I am a product data analyst at Quorum. 
+- I am a data analyst at Quorum. 
 - MSc Business Analytics Graduate from Imperial College London (modules: advanced machine learning, network analytics, digital marketing analytics, data structures, statistics and econometrics), graduated with distinction
 - McGill University: Bachelor of Commerce, Finance, Management & Economics
 - Past professional experiences: Capital Pilot, KPGM Data Spark, Trafigura, BNP Paribas 
