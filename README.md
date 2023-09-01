@@ -3,7 +3,7 @@
 - I am a senior product analyst at HubSpot. 
 - MSc Business Analytics Graduate from Imperial College London (modules: advanced machine learning, network analytics, digital marketing analytics, data structures, statistics and econometrics), graduated with distinction
 - McGill University: Bachelor of Commerce, Finance, Management & Economics
-- Past professional experiences: Capital Pilot, KPGM Data Spark, Trafigura, BNP Paribas 
+- Past professional experiences: Dashmote, Capital Pilot, KPGM Data Spark, Trafigura, BNP Paribas 
 - Awards: "The Breakthrough Award’ from Imperial for work on “Improving operational efficiencies and commercial performance” of leading energy company in the UK (July 2020)
 - Programming languages: Python, SQL, R, AMPL
 - Visualisation tools: plotly, matplotlib, ggplot2, Power BI, Tableau 
